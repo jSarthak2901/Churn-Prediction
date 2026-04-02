@@ -1,8 +1,3 @@
-# Generated from: Churn_Prediction.ipynb
-# Converted at: 2026-04-02T17:52:56.995Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
-
 from google.colab import files
 uploaded = files.upload()
 
